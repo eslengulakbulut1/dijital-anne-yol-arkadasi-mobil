@@ -140,3 +140,4 @@ npx expo start
 ```
 
 ## 📽️ Demo Video: https://drive.google.com/file/d/1oShx_mvuQwZ--eLpuWhybvuAKjWJsPZ1/view?usp=drive_link
+## QR Kod: https://drive.google.com/file/d/1eBcMjBUQSpGMJa75LUKl4P6VQkDjThZt/view?usp=drive_link
