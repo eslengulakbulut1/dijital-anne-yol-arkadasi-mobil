@@ -137,3 +137,6 @@ git clone https://github.com/kullaniciadi/bebek-bakim-takip.git
 cd bebek-bakim-takip
 npm install
 npx expo start
+```
+
+## 📽️ Demo Video: https://drive.google.com/file/d/1oShx_mvuQwZ--eLpuWhybvuAKjWJsPZ1/view?usp=drive_link
